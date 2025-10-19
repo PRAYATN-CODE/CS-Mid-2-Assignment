@@ -23,10 +23,3 @@ Each program is written in **vanilla JavaScript** and can be executed directly u
 - [Node.js](https://nodejs.org/) (v14 or higher)
 
 ---
-
-## 🚀 How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/statistics-js.git
-   cd statistics-js
